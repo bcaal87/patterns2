@@ -1,6 +1,8 @@
-using PatronesExtra_3.Proxy;
-using PatronesExtra_3.Chain;
-using PatronesExtra_3.State;
+using PatronesExtra_3_Corregido.Proxy;
+using PatronesExtra_3_Corregido.Chain;
+using PatronesExtra_3_Corregido.State;
+
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 Console.WriteLine("=== PROXY ===");
 ProxyDemo.Run();

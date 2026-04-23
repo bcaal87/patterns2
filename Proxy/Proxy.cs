@@ -1,4 +1,4 @@
-namespace PatronesExtra_3.Proxy;
+namespace PatronesExtra_3_Corregido.Proxy;
 
 public interface IFileService
 {

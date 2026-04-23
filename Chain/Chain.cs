@@ -1,4 +1,4 @@
-namespace PatronesExtra_3.Chain;
+namespace PatronesExtra_3_Corregido.Chain;
 
 public abstract class Handler
 {
